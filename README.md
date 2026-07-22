@@ -5,11 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dövlət Qulluğu - Linklər və Qruplar</title>
     <style>
-        * {
-            box-sizing: border-box;
-            margin: 0;
-            padding: 0;
-        }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
         body {
             font-family: Arial, sans-serif;
             background-color: #0d1117;
@@ -38,17 +34,8 @@
             margin-bottom: 15px;
             border: 3px solid #25D366;
         }
-        h1 {
-            font-size: 22px;
-            font-weight: bold;
-            margin-bottom: 5px;
-            color: #f0f6fc;
-        }
-        .subtitle {
-            font-size: 14px;
-            color: #8b949e;
-            margin-bottom: 25px;
-        }
+        h1 { font-size: 22px; font-weight: bold; margin-bottom: 5px; color: #f0f6fc; }
+        .subtitle { font-size: 14px; color: #8b949e; margin-bottom: 25px; }
         .section-title {
             font-size: 15px;
             color: #58a6ff;
@@ -74,17 +61,11 @@
             transition: transform 0.2s ease, opacity 0.2s ease;
             box-shadow: 0 4px 10px rgba(0,0,0,0.2);
         }
-        .btn:active {
-            transform: scale(0.98);
-        }
-        .btn:hover {
-            opacity: 0.9;
-        }
+        .btn:active { transform: scale(0.98); }
+        .btn:hover { opacity: 0.9; }
         .whatsapp { background-color: #25D366; }
         .telegram { background-color: #0088cc; }
-        .instagram { 
-            background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); 
-        }
+        .instagram { background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); }
     </style>
 </head>
 <body>
@@ -105,4 +86,36 @@
         <a class="btn telegram" href="https://t.me/PH_Qanunvericiliik" target="_blank">Qanunvericilik Telegram Qrupumuz</a>
         
         <div class="section-title">İnformatika</div>
+        <a class="btn telegram" href="https://t.me/infoPHJ" target="_blank">İnformatika Telegram Qrupumuz</a>
+        
+        <div class="section-title">Müsahibə</div>
+        <a class="btn whatsapp" href="https://chat.whatsapp.com/GvlZG96GrSk7D2YWlXgp6t?s=cl&p=a&mlu=4" target="_blank">Müsahibə WhatsApp Qrupumuz</a>
+        <a class="btn telegram" href="https://t.me/ph_musahibe" target="_blank">Müsahibə Telegram Qrupumuz</a>
+        
+        <div class="section-title">Azərbaycan Dili</div>
+        <a class="btn telegram" href="https://t.me/azerbaycan_dili_PH" target="_blank">Azərbaycan Dili Telegram Qrupu</a>
+
+        <div class="section-title">📚 Qanunvericilik Vəsaitləri</div>
+
+        <p class="subtitle" style="font-size:13px;text-align:left;margin-bottom:15px;">
+        Aşağıdakı vəsaitlərdə <b>2026-cı il üzrə bu günədək qüvvəyə minmiş bütün əlavə və dəyişikliklər nəzərə alınmışdır.</b><br>
+        <b>Ən son yenilənmiş versiyadır.</b>
+        </p>
+
+        <a class="btn telegram" href="Vasait-AC.pdf" target="_blank">📄 AC</a>
+
+        <a class="btn telegram" href="Vasait-BB-BA.pdf" target="_blank">📄 BB BA</a>
+
+        <a class="btn telegram" href="Kateqoriyalar.pdf" target="_blank">📄 DQ (Kateqoriya)</a>
+
+        <a class="btn telegram" href="Tasnifat.pdf" target="_blank">📄 DQ (Təsnifat)</a>
+
+        <a class="btn telegram" href="Ixtisas.pdf" target="_blank">📄 DQ (İxtisas dərəcəsi)</a>
+
+        <div class="section-title">Sosial Şəbəkə</div>
+        <a class="btn instagram" href="https://www.instagram.com/dovletqulluguqanunvericilik?utm_source=qr&igsh=MXVldWV0OTIyaXp5eQ==" target="_blank">Instagram Hesabımız</a>
+    </div>
+
+</body>
+</html>        
         
