@@ -1,1 +1,0 @@
-# Linklər və keçidlər
