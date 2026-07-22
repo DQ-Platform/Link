@@ -105,30 +105,3 @@
 
 </body>
 </html>
-        <a class="btn telegram" href="Pənah Hüseynov (Kateqoriyalar 01 avqust 2026).pdf" target="_blank">📄 DQ (Kateqoriya)</a>
-
-        <a class="btn telegram" href="Pənah_Hüseynov_Təsnifatların_tapılması_01_avqust_2026.pdf" target="_blank">📄 DQ (Təsnifat)</a>
-
-        <a class="btn telegram" href="Pənah Hüseynov (İxtisas dərəcələri 2026).pdf" target="_blank">📄 DQ (İxtisas dərəcəsi)</a>
-
-        <div class="section-title">Sosial Şəbəkə</div>
-        <a class="btn instagram" href="https://www.instagram.com/dovletqulluguqanunvericilik?utm_source=qr&igsh=MXVldWV0OTIyaXp5eQ==" target="_blank">Instagram Hesabımız</a>
-    </div>
-
-</body>
-</html>
-        <a class="btn telegram" href="Vasait-BB-BA.pdf" target="_blank">📄 BB BA</a>
-
-        <a class="btn telegram" href="Kateqoriyalar.pdf" target="_blank">📄 DQ (Kateqoriya)</a>
-
-        <a class="btn telegram" href="Tasnifat.pdf" target="_blank">📄 DQ (Təsnifat)</a>
-
-        <a class="btn telegram" href="Ixtisas.pdf" target="_blank">📄 DQ (İxtisas dərəcəsi)</a>
-
-        <div class="section-title">Sosial Şəbəkə</div>
-        <a class="btn instagram" href="https://www.instagram.com/dovletqulluguqanunvericilik?utm_source=qr&igsh=MXVldWV0OTIyaXp5eQ==" target="_blank">Instagram Hesabımız</a>
-    </div>
-
-</body>
-</html>        
-        
